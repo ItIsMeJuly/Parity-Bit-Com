@@ -1,4 +1,4 @@
-# ParityBitCom
+# Parity-Bit-Com
 This project consists of 3 source files:
 <ol>
   <li>Encoder</li>
@@ -15,4 +15,4 @@ The data communication is between 4 files:
       <li>transmittedData
         <li>decodedData
           </ul>
-In the end the inputData file should be equal to the decodedData file.
+In the end the inputData file should be equal to the decodedData file and both transmittedData and encodedData should be unreadable
